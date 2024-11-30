@@ -1,6 +1,21 @@
 # BiGNN:  Bipartite Graph Neural Network with Attention Mechanism for Solving Multiple Traveling Salesman Problems in Urban Logistics
 
-Haojian Liang, Shaohua Wang, Huilai Li
+This project is the code for the study: 
+
+Liang, H., Wang, S., Li, H., Zhou, L., Zhang, X., & Wang, S. (2024). BiGNN: Bipartite graph neural network with attention mechanism for solving multiple traveling salesman problems in urban logistics. International Journal of Applied Earth Observation and Geoinformation, 129, 103863.[[Full article]](https://www.sciencedirect.com/science/article/pii/S1569843224002176)
+
+Paper reference:
+```bash
+@article{liang2024bignn,
+  title={BiGNN: Bipartite graph neural network with attention mechanism for solving multiple traveling salesman problems in urban logistics},
+  author={Liang, Haojian and Wang, Shaohua and Li, Huilai and Zhou, Liang and Zhang, Xueyan and Wang, Shaowen},
+  journal={International Journal of Applied Earth Observation and Geoinformation},
+  volume={129},
+  pages={103863},
+  year={2024},
+  publisher={Elsevier}
+}
+```
 
 ## Installation
 
